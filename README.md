@@ -2,7 +2,8 @@
 
 <div>
   <a href="https://github.com/brafps"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=brafps&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brafps&layout=compact&langs_count=7&theme=dracula"/></div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brafps&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Breno-Python" height="30" width="40" src="https://icongr.am/simple/latex.svg?size=148&color=808080&colored=false">
   <img align="center" alt="Breno-Python" height="30" width="40" src="https://icongr.am/simple/microsoftexcel.svg?size=128&color=28bd4d&colored=false">
