@@ -22,4 +22,7 @@
  
 <div>
   <a href="https://www.linkedin.com/in/breno-sampaio-8b695177" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.hackerrank.com/br_sampaio" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-%231177G5?style= for-the-badge&logo=HackerRank&logoColor=white" target="_blank"></a>
+    <a href="https://www.kaggle.com/brafps" target="_blank"><img src="https://img.shields.io/badge/-Kaggle-%231177B5?style= for-the-badge&logo=kaggle&logoColor=white" target="_blank"></a>
 </div>
+
